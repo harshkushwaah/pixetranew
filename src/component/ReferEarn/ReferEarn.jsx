@@ -1,6 +1,6 @@
 import React from 'react'
 import Header from '../ProductsPage/Header'
-import hero from "./img/hero.png"
+
 import Information from './information'
 import "./style/referandearn.css"
 import money from "./img/money.png";

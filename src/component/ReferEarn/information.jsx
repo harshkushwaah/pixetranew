@@ -4,7 +4,7 @@ const Information = (props) => {
   return (
     <div>
         <div className='information'>
-                    <img src={props.img}/>
+                    <img src={props.img} alt=''/>
                     <p>{props.text}</p>
                 </div>
     </div>
