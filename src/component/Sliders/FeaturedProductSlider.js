@@ -13,7 +13,7 @@ export default class ProductSlider extends Component {
       className: "center",
       infinite: false,
       centerPadding: "30px",
-      slidesToShow: 2.4,
+      slidesToShow: 2.3,
       swipeToSlide: true,
       arrows: false,
       afterChange: function(index) {
