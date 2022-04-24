@@ -1,6 +1,6 @@
 import './styles/product.css';
 import React from 'react';
-import Header from "../ProductsPage/Header"
+import Header from "./Header"
 import Photobook from "./Photobook"
 import  photobookbg from "./img/photobookbg.png"
 import BottomNavbar from "./BottomNavbar"
