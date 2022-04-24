@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
+
+
+
+.heading1{
+    font-size: 22px;
+    margin: 0;
+    padding-top: 34px;
+    padding-bottom: 44px;
+}
+.heading2{
+    font-size: 22px;
+    margin: 0;
+    padding-bottom: 53px;
+    padding-top: 10px;
+}
+.centera{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.animation{
+    height: 282.6px;
+    width: 352.4px;
+    position: relative;
+}
+.animation h3{
+    font-size: 75px;
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+
+}
+.animation img{
+    width: 75px;
+    z-index: 2;
+
+}
+.animation p{
+    margin: 0;
+    position: absolute;
+    padding: 0;
+    z-index: 1;
+}
+.emogi1{
+    left: 34.6px;
+    font-size: 24px;
+    
+}
+.emogi2{
+   
+    top: 15px;
+    left: 223.3px;
+    font-size: 15px;
+}
+.emogi3{
+opacity: 0.6;
+    top: 45.6px;
+    left: 102.6px;
+    font-size: 33px;
+}
+.emogi4{
+   
+    top: 89.6px;
+    left: 20.5px;
+    font-size: 16px;
+}
+.emogi5{
+   
+    top: 69px;
+    left: 301.6px;
+    font-size: 24px;
+}
+.emogi6{
+   
+    top: 131.4px;
+    left: 226.5px;
+    font-size: 15px;
+}
+.emogi7{
+   
+    top: 132.6px;
+    left: 325.6px;
+    font-size: 15px;
+}.emogi8{
+   
+    top: 226.2px;
+    left: 186px;
+    font-size: 16px;
+}.emogi9{
+   opacity: 0.6;
+    top: 242.6px;
+    left: 242.3px;
+    font-size: 22px;
+}.emogi10{
+   
+    top: 210.1px;
+    left: 87.6px;
+    font-size: 16px;
+}.emogi11{
+   
+    top: 246.3px;
+    left: 0px;
+    font-size: 20px;
+}
+.information{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+.information img{
+    height: 30px;
+    float: left;
+}
+.information p{
+    word-wrap: break-word;
+    width: 212px;
+    padding: 0;
+    margin: 0;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 17px;
+    line-height: 0.94;
+    color:  #3e3f68;
+    padding-left: 25px;
+}

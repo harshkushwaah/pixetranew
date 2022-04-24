@@ -1,0 +1,27 @@
+.nav-icons{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    bottom: 0;
+    position: sticky;
+    background-color: var(--white);
+}
+.nav-icons a{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 10px;
+    padding: 7px 15px;
+    color: var(--warm-grey);
+    font-weight: lighter;
+}
+.nav-icons img{
+    align-self: center;
+    display: block;
+    height: 18px;
+    width: auto;
+    margin-bottom: 2px;
+}
