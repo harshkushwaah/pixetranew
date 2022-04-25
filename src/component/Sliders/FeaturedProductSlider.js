@@ -11,7 +11,7 @@ export default class ProductSlider extends Component {
   render() {
     const settings = {
       className: "center",
-      infinite: false,
+      infinite: true,
       centerPadding: "30px",
       slidesToShow: 2.3,
       swipeToSlide: true,

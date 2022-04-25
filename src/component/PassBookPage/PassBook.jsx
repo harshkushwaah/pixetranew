@@ -1,5 +1,5 @@
 import React from "react";
-import Header from "../ProductsPage/Header";
+import Header from "../HomePage/Header";
 import PassBookCreds from "./PassBookCreds";
 import PassBookOrder from "./PassBookOrder";
 import "./styles/Passbook.css";

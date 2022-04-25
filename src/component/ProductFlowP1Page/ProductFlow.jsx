@@ -9,7 +9,7 @@ import ReviewSlider from "../Sliders/ReviewSlider"
 import Btn from "./Btn";
 import close from "./img/X.png"
 import { useNavigate}from 'react-router-dom';
-import React, { useState } from 'react';
+import React from 'react';
 import { motion } from 'framer-motion';
 // function Scroll(){
 //     return{

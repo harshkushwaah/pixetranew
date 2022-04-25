@@ -11,9 +11,7 @@ import "slick-carousel/slick/slick-theme.css";
 import LoginInfo from './component/LoginInfoPage/LoginInfo';
 import LoginScreen from "./component/LoginScreenPage/LoginScreen";
 import Error from "./component/Error";
-import ReferEarn from './component/ReferEarn/ReferEarn';
-import SlidingNav from './component/Imagepicker/SlidingNav';
-
+import ReferEarn from "./component/ReferEarn/ReferEarn";
 function App() {
   return (
     <div>
@@ -30,8 +28,7 @@ function App() {
         <Route path='/product-name' element={<ProductFlow />} />
         <Route path='/pick-image' element={<Imagepicker />} />
         <Route path='/passbook' element={<PassBook />} />
-        <Route path='/refer&earn' element={<ReferEarn />} />
-        <Route path='/nav' element={<SlidingNav />} />
+        <Route path='/refer&earn' element={ <ReferEarn /> } />
 
         <Route path='*' element={<Error />} />
       </Routes>
